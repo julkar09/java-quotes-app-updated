@@ -18,8 +18,8 @@ This project is a simple Java-based HTTP server that serves random motivational 
 ### Running Locally
 1. Clone the repository:
    ```sh
-   git clone https://github.com/LondheShubham153/java-quotes-app.git
-   cd java-quotes-app
+   git clone https://github.com/julkar09/java-quotes-app-updated.git
+   cd java-quotes-app-updated
    ```
 2. Ensure `quotes.txt` exists in the project directory and contains quotes (one per line).
 3. Compile and run the application:
@@ -58,11 +58,3 @@ project-root/
 
 ## Customizing Quotes
 To customize the quotes, edit `quotes.txt` and restart the application. Each quote should be on a new line.
-
-## License
-This project is licensed under the MIT License.
-
-## Author
-[TrainWithShubham](https://github.com/LondheShubham153)
-
-
