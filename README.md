@@ -59,8 +59,3 @@ project-root/
 ## Customizing Quotes
 To customize the quotes, edit `quotes.txt` and restart the application. Each quote should be on a new line.
 
-
-
-
-
-
